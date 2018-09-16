@@ -20,3 +20,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 ...
 <FontAwesomeIcon icon="coffee" />
 ````
+**TODO**
++Fork react-starter-kit
++Add debugging command
++Add font-awesome

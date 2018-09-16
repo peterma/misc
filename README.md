@@ -17,13 +17,14 @@ library.add(fab, faCheckSquare, faCoffee);
 **xx.js**
 ````js
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-...
+// ...
 <FontAwesomeIcon icon="coffee" />
 ````
 **TODO**
-+Fork react-starter-kit
 
-+Add debugging command
++ Fork react-starter-kit
 
-+Add font-awesome
++ Add debugging command
+
++ Add font-awesome
 

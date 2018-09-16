@@ -14,7 +14,7 @@ import { faCheckSquare, faCoffee } from '@fortawesome/free-solid-svg-icons';
 
 library.add(fab, faCheckSquare, faCoffee);
 ```
-**** xx.js ****
+** xx.js **
 ````js
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 ...
